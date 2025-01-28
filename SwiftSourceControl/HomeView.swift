@@ -9,8 +9,13 @@ import SwiftUI
 
 struct HomeView: View {
     var body: some View {
-        Text("This is HomeView Screen")
-        Text("welcome")
+        ZStack {
+            Text("Screen 1")
+            Text("Screen 1")
+            Text("Screen 1")
+            
+        }
+        
     }
 }
 
