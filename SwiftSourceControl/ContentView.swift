@@ -37,6 +37,11 @@ struct ContentView: View {
             Text("This is the test app")
             Text("swift commit message")
             
+            Button("Subscribe"){
+                
+            }
+            
+            
             Button("return back"){
                 
             }
