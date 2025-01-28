@@ -45,20 +45,20 @@ struct ContentView: View {
                             .font(.largeTitle)
                             .foregroundStyle(.tint)
                         Text("Some fancy Title")
-            
-            
-                        Button("Click me"){
-                
                         
+                        
+                        Button("Click me"){
+                            
+                            
+                        }
                     }
+                    
                 }
-            
             }
+            .padding()
         }
-        .padding()
     }
 }
-
 #Preview {
     ContentView()
 }
