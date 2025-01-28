@@ -15,7 +15,9 @@ struct ContentView: View {
                 .foregroundStyle(.tint)
             Text("This is the test app")
             
-            
+            Button("return back"){
+                
+            }
         }
         .padding()
     }
