@@ -41,11 +41,6 @@ struct ContentView: View {
                 
             }
             
-            
-            Button("return back"){
-                
-            }
-            .background(Color.red)
         }
         .padding()
     }
