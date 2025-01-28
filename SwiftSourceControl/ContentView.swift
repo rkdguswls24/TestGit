@@ -44,7 +44,7 @@ struct ContentView: View {
             Text("This is the test app")
             Text("swift thinking")
             
-            Button("Subscribe Now"){
+            Button("SubscribeNow"){
                 
             }
             
