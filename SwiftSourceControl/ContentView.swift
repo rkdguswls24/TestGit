@@ -47,9 +47,7 @@ struct ContentView: View {
             Button("Subscribe"){
                 
             }
-            Button("SubscribeNow"){
-                
-            }
+            
             Rectangle()
         }
         .padding()
