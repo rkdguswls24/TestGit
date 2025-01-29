@@ -13,6 +13,9 @@ struct ProfileView: View {
     
     var body: some View {
         Text("This is Profile View")
+            .onAppear {
+                // do something here
+            }
     }
 }
 
