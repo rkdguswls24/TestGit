@@ -53,7 +53,7 @@ struct ContentView: View {
                         Text("some thign fancy Title")
                         
                         
-                        Button("subscribe"){
+                        Button("subscribeNow"){
                             
                             
                         }
